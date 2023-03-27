@@ -1,1 +1,1 @@
-console.log();
+console.log("100/100");
